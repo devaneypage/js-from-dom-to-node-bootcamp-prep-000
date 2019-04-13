@@ -2,4 +2,8 @@
 console.log('Hello, World!');
 ```
 'node index.js'
-// writenod your code below!
+//console.log('Hello, World!');
+
+console.log('Hello, World!');
+
+ your code below!
